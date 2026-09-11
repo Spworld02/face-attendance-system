@@ -1,0 +1,7 @@
+venv/
+__pycache__/
+*.pyc
+models/encodings.pkl
+data/attendance.csv
+data/*.jpg
+.vscode/
